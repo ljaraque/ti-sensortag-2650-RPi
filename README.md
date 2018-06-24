@@ -1,8 +1,7 @@
-title: TI-SensorTag2650&Rpi  
-date: 2016-01-30  
----
-
-### **Texas Instruments Sensortag 2650 and Raspberry Pi**  
+**Texas Instruments Sensortag 2650 and Raspberry Pi**  
+---   
+*title: TI-SensorTag2650&Rpi*  
+*date: 2016-01-30*  
 *by: alfanetics 2016*
 
 #### **1. Introduction**  
