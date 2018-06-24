@@ -2,7 +2,7 @@
 ---   
 *title: TI-SensorTag2650&Rpi*  
 *date: 2016-01-30*  
-*by: alfanetics 2016*
+*by: ljaraque@yahoo.com*
 
 #### **1. Introduction**  
 This document is intended to provide a validated procedure to setup and run TI SensorTag 2650 along with Raspberry Pi.  
